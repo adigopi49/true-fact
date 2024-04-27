@@ -1,0 +1,17 @@
+.b{
+    background-color: black;
+}
+img {
+    height: 250;
+    width: auto;
+    border: 20px;;
+    border-color: aqua;
+    margin-left:450;
+    margin-top:170;
+    border-color: aqua;
+
+}
+h1{
+    color: aqua;
+    margin-left: 600;
+}
